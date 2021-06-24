@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433144443640",
+    "project_id": "basiccrud-dec7e",
+    "storage_bucket": "basiccrud-dec7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433144443640:android:c161bbcb0b9f98fedf010d",
+        "android_client_info": {
+          "package_name": "com.example.basiccrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433144443640-re5jshm7r78tcduqs8mnua15596ouc35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi32XllKGBsdKszaZ0xbLTMkSPkD00M5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433144443640-re5jshm7r78tcduqs8mnua15596ouc35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
